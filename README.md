@@ -11,4 +11,4 @@ Once analyzed for specific characteristics (e.g., times in the video when certai
 The time stamp informs users where to easily navigate to find the desired people, activities, etc. that was queried of the video.
 
 Many AI-enabled methods and tools are supposed to perform classification analysis across these different data streams.
-The video search assistant may use any data stream type classification strategy, or implement a solution that combine more than one strategy.
+The video search assistant may use any data stream type classification strategy, or implement a solution that combine more than one strategy....
