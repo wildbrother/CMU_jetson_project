@@ -1,0 +1,6 @@
+{"index": {"_index": "vid_0", "_type": "frame", "_id": 4}}
+{"fps": 30, "frame_number": 1, "label": [{"model": "face", "description": ["Tom", "David"], "score": 0.1}]}
+{"index": {"_index": "vid_0", "_type": "frame", "_id": 5}}
+{"fps": 30, "frame_number": 2, "label": [{"model": "face", "description": "Jacob", "score": 0.2}]}
+{"index": {"_index": "vid_0", "_type": "frame", "_id": 6}}
+{"fps": 30, "frame_number": 3, "label": [{"model": "face", "description": "Adam", "score": 0.4}]}
