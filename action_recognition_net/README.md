@@ -4,6 +4,7 @@ pipeline files ->
 There are many packages to need this codes. so if someone want to inference this codes, just use the image <wildbrother/cmu_team5_action:1.0>
 
 README in DOCKER FILE :
+
 	1. bash shell
 		cd /opt/nvidia/deepstream/deepstream-6.0/sources/apps/sample_apps/deepstream-3d-action-recognition
 	2. bash shell
@@ -13,6 +14,7 @@ README in DOCKER FILE :
 
 
 config file -> 
+
 	deepstream_action_recognition_config.txt
 	config_infer_primary_2d_action.txt
 	config_infer_primary_2d_action.txt
@@ -21,10 +23,12 @@ config file ->
 
 
 pipeline ->
+
 	deepstream_3d_action_recognition.cpp
 
 
 model -> 
+
 	last_model.etlt
 	hope2.etlt
 	// there are many other weights in docker image.
